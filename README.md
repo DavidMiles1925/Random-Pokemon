@@ -2,6 +2,8 @@
 
 ## Under Contruction
 
+This API will return a random pokemon and it's data.
+
 ## Dependencies
 
 **See package.json for versions.**
