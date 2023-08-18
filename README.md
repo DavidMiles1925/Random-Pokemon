@@ -72,10 +72,28 @@ JSON Web Token
 npm install jsonwebtoken
 ```
 
+JOI
+
+```bash
+npm install joi
+```
+
 Mongoose
 
 ```bash
 npm install mongoose
+```
+
+Nodemon
+
+```bash
+npm install nodemon
+```
+
+Prettier
+
+```bash
+npm install prettier
 ```
 
 Validator
@@ -88,22 +106,4 @@ Winston
 
 ```bash
 npm install winston
-```
-
-JOI
-
-```bash
-npm install joi
-```
-
-"nodemon": "^2.0.21",
-
-```bash
-npm install nodemon
-```
-
-Prettier
-
-```bash
-npm install prettier
 ```
